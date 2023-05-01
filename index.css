@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: gainsboro;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+pre{
+  width: 600px;
+  margin: auto;
+  background-color: #191622;
+  color: white;
+  padding-inline: 35px;
+  border-radius: 8px;
+  margin-block: 30px;
+}
+span{
+  color: green;
+}
+.classe{
+  color: rgb(219, 219, 105);
+
+}
+
+.image{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+  background-color: white;
+  border-radius: 8px;
+  height: 100px;
+  margin: auto;
+
+}
